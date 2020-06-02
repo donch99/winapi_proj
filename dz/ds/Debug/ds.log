@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  ds.cpp
+C:\Users\amart\Desktop\WIN_API\proj\ds\ds\ds.cpp(184,38): warning C4305:  +=: усечение из "double" в "float"
+C:\Users\amart\Desktop\WIN_API\proj\ds\ds\ds.cpp(185,12): warning C4244:  инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\amart\Desktop\WIN_API\proj\ds\ds\ds.cpp(186,12): warning C4244:  инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\amart\Desktop\WIN_API\proj\ds\ds\ds.cpp(188,41): warning C4244:  аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\amart\Desktop\WIN_API\proj\ds\ds\ds.cpp(188,26): warning C4244:  аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\amart\Desktop\WIN_API\proj\ds\ds\ds.cpp(190,39): warning C4244:  аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\amart\Desktop\WIN_API\proj\ds\ds\ds.cpp(190,24): warning C4244:  аргумент: преобразование "float" в "int", возможна потеря данных
+  ds.vcxproj -> C:\Users\amart\Desktop\WIN_API\proj\ds\Debug\ds.exe
